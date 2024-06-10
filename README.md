@@ -9,4 +9,6 @@
     docker run -t -p 8000:8000 dockerized-fastapi
     ```
 - View
-    `http://localhost:8000`
+    ```
+    http://localhost:8000
+    ```
